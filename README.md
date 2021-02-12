@@ -65,3 +65,11 @@ sk_sym1 and sk_sym2 are stored in the database.
 ### Overview
 
 ![Project GIF](./projectgif.gif)
+
+## Commit History Visualizer
+
+![GIF](CommitHistoryVisualizer/SecureMails.gif)
+
+[video](CommitHistoryVisualizer/SecureMails.mp4)
+
+- Above video is made using ![Visual Source](https://img.shields.io/badge/visual-source-orange)
